@@ -1,8 +1,8 @@
 {
   "name": "demo-task-app-backend",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "type": "module",
-  "description": "Backend API server for demo task app with edit history tracking",
+  "description": "Backend API server for multilingual demo task app",
   "main": "server.js",
   "keywords": ["express", "rest-api", "task-management", "history-tracking"],
   "author": "peaske",

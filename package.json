@@ -1,8 +1,8 @@
 {
   "name": "demo-task-app",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "type": "module",
-  "description": "Full-stack task management application with edit history tracking",
+  "description": "Multilingual full-stack task management app (React + Express.js)",
   "keywords": ["react", "express", "task-management", "full-stack", "demo"],
   "author": "peaske",
   "license": "MIT",
